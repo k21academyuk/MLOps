@@ -1,40 +1,32 @@
 [![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://www.youtube.com/@K21Academy/playlists) 
 
 # Data Science Cookie Cutter
+--------------------------------------------------------------------------------
+**##What is Cookiecutter?**
+Cookiecutter is a Python command-line tool that automates the creation of project structures using predefined templates. It helps developers quickly set up new projects with a consistent structure, reducing manual effort and minimizing errors.
 
-## Why?
-It is important to structure your data science project based on a certain standard so that your teammates can easily maintain and modify your project.
+Think of Cookiecutter like a real cookie cutter in baking—it takes a project template and creates new projects with the same structure every time.
 
-This repository provides a template that incorporates best practices to create a maintainable and reproducible data science project.  
+## Why Use Cookiecutter?
+
+✅ Saves Time – Automates project setup, eliminating repetitive tasks.
+✅ Ensures Consistency – Every project follows the same structure, making collaboration easier.
+✅ Customizable – Supports user-defined templates for different project types.
+✅ Works with Multiple Languages – Although mainly used for Python, it supports other languages too.  
 
 
 ## How to use this project
 
-Install Cookiecutter:
+1️⃣Install Cookiecutter:
 ```bash
 pip install cookiecutter
 ```
 
-Create a project based on the template:
+2️⃣ Create a project based on the template:
 ```bash
 cookiecutter https://github.com/khuyentran1401/data-science-template
 ```
-
-## Book: Production-Ready Data Science
-
-Want to learn more about building production-ready data science projects? Check out my upcoming book:
-
-[Production Ready Data Science: From Prototyping to Production with Python](https://codecut.ai/production-ready-data/?utm_source=github&utm_medium=repository&utm_campaign=data_science_template)
-
-The book will cover:
-- Best practices for structuring data science projects
-- Tools and techniques for reproducible research 
-- Deploying and monitoring machine learning models
-- And much more!
-
-Sign up now to receive the first 3 chapters for free! You'll also be notified when the full book becomes available.
-
-## Other Resources:
-- [Article](https://codecut.ai/how-to-structure-a-data-science-project-for-readability-and-transparency-2/)
-- [Video](https://youtu.be/TzvcPi3nsdw)
+3️⃣ Explore the Generated Project:
+- The tool automatically creates folders, files, and configurations as per the template.
+- You can start working on your project immediately.
 
