@@ -11,9 +11,9 @@ Think of Cookiecutter like a real cookie cutter in baking—it takes a project t
 ----------------------------------------------------------------------------
 ## Why Use Cookiecutter?
 
-✅ Saves Time – Automates project setup, eliminating repetitive tasks.
-✅ Ensures Consistency – Every project follows the same structure, making collaboration easier.
-✅ Customizable – Supports user-defined templates for different project types.
+✅ Saves Time – Automates project setup, eliminating repetitive tasks. <br>
+✅ Ensures Consistency – Every project follows the same structure, making collaboration easier. <br>
+✅ Customizable – Supports user-defined templates for different project types. <br>
 ✅ Works with Multiple Languages – Although mainly used for Python, it supports other languages too.  
 
 ----------------------------------------------------------------------
@@ -33,7 +33,7 @@ cookiecutter https://github.com/k21academyuk/MLOps/tree/main/data-science-templa
 - You can start working on your project immediately.
 ----------------------------------------------------
 ## Where is Cookiecutter Used?
-- **Python Package Development** – Automates the setup of new Python libraries.
-- **Web Applications** – Quickly creates Django, Flask, or FastAPI project structures.
-- **Data Science Projects** – Structures ML and data science projects for better organization.
-- **Automation & DevOps** – Generates configuration files for infrastructure automation.
+🔹**Python Package Development** – Automates the setup of new Python libraries. <br>
+🔹**Web Applications** – Quickly creates Django, Flask, or FastAPI project structures. <br>
+🔹**Data Science Projects** – Structures ML and data science projects for better organization. <br>
+🔹**Automation & DevOps** – Generates configuration files for infrastructure automation.
