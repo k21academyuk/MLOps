@@ -24,7 +24,7 @@ pip install cookiecutter
 
 2️⃣ Create a project based on the template:
 ```bash
-cookiecutter https://github.com/khuyentran1401/data-science-template
+cookiecutter https://github.com/k21academyuk/MLOps/tree/main/data-science-template
 ```
 3️⃣ Explore the Generated Project:
 - The tool automatically creates folders, files, and configurations as per the template.
