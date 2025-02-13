@@ -2,7 +2,7 @@
 
 # Cookie Cutter
 --------------------------------------------------------------------------------
-**## What is Cookiecutter?**
+## What is Cookiecutter?
 ![image](https://github.com/user-attachments/assets/56ec23e9-918b-474b-9d7d-2d06107c0a06)
 
 Cookiecutter is a Python command-line tool that automates the creation of project structures using predefined templates. It helps developers quickly set up new projects with a consistent structure, reducing manual effort and minimizing errors.
