@@ -1,4 +1,4 @@
-[![View article](https://img.shields.io/badge/CodeCut-View_article-blue)](https://codecut.ai/how-to-structure-a-data-science-project-for-readability-and-transparency-2/) [![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://youtu.be/TzvcPi3nsdw) 
+[![View on YouTube](https://img.shields.io/badge/YouTube-Watch%20on%20Youtube-red?logo=youtube)](https://www.youtube.com/@K21Academy/playlists) 
 
 # Data Science Cookie Cutter
 
@@ -7,11 +7,6 @@ It is important to structure your data science project based on a certain standa
 
 This repository provides a template that incorporates best practices to create a maintainable and reproducible data science project.  
 
-## Tools used in this project
-* [hydra](https://hydra.cc/): Manage configuration files - [article](https://codecut.ai/stop-hard-coding-in-a-data-science-project-use-configuration-files-instead/)
-* [pdoc](https://github.com/pdoc3/pdoc): Automatically create an API documentation for your project
-* [pre-commit plugins](https://pre-commit.com/): Automate code reviewing formatting
-* [Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f): Dependency management - [article](https://codecut.ai/poetry-a-better-way-to-manage-python-dependencies/)
 
 ## How to use this project
 
